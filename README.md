@@ -75,9 +75,9 @@
 
 그 외
 - 팀 : 기능조직 / 목적조직 / 스쿼드
-- 이슈관리 : Github / Jira / Trello / Asana
+- 이슈관리 : Github / Jira / Trello
 - CI/CD : Github Action
-- 버전관리 : Git / GitFlow
+- 버전관리 : Git / GithubFlow
 
 ### TODO
 
@@ -96,7 +96,7 @@
     - React를 활용해서 일정관리가 가능한 달력구현
 
 --- 
-창업
+## 창업
 
 ### 퍼픽
 - 소개: 향수를 온라인에서 체험할 수 있도록 해줌
