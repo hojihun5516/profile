@@ -40,7 +40,7 @@
 
 ### Backend
 - python - Django
-- nodejs - express, nestjs
+- nodejs - express, nestjs, typescript, TDD
 - Database
     - Mysql
     - Redis
@@ -54,6 +54,7 @@
 - AWS
     - EC2
     - RDS
+    - S3
     - ECR, ECS
     - Route53
     - LoadBalancer
@@ -83,8 +84,6 @@
 
 - kubernetes
 - AWS 여러 기능들
-- typescript
-- TDD
 - DDD
 
 ## 근무 경력
